@@ -1,6 +1,6 @@
 def speak_to_grandma (phrase)
-phrase = 'hi'
-    if phrase == phrase.upcase
+
+    if phrase == phrase.upcase && phrase != "I LOVE YOU GRANDMA!"
      'NO, NOT SINCE 1938!'
     
   elsif phrase == "I LOVE YOU GRANDMA!"
