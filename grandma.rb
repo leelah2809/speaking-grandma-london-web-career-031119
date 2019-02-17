@@ -9,5 +9,6 @@ phrase = 'Hi Nana, how are you?'
     else 
     puts 'HUH?! SPEAK UP, SONNY!'
   end
+end
   
   
